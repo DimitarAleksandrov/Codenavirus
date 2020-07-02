@@ -1,0 +1,11 @@
+E:\Soft Uni C# Projects\I Prime Holding\Codenavirus\Codenavirus\bin\Debug\netcoreapp2.1\Codenavirus.deps.json
+E:\Soft Uni C# Projects\I Prime Holding\Codenavirus\Codenavirus\bin\Debug\netcoreapp2.1\Codenavirus.runtimeconfig.json
+E:\Soft Uni C# Projects\I Prime Holding\Codenavirus\Codenavirus\bin\Debug\netcoreapp2.1\Codenavirus.runtimeconfig.dev.json
+E:\Soft Uni C# Projects\I Prime Holding\Codenavirus\Codenavirus\bin\Debug\netcoreapp2.1\Codenavirus.dll
+E:\Soft Uni C# Projects\I Prime Holding\Codenavirus\Codenavirus\bin\Debug\netcoreapp2.1\Codenavirus.pdb
+E:\Soft Uni C# Projects\I Prime Holding\Codenavirus\Codenavirus\obj\Debug\netcoreapp2.1\Codenavirus.csprojAssemblyReference.cache
+E:\Soft Uni C# Projects\I Prime Holding\Codenavirus\Codenavirus\obj\Debug\netcoreapp2.1\Codenavirus.csproj.CoreCompileInputs.cache
+E:\Soft Uni C# Projects\I Prime Holding\Codenavirus\Codenavirus\obj\Debug\netcoreapp2.1\Codenavirus.AssemblyInfoInputs.cache
+E:\Soft Uni C# Projects\I Prime Holding\Codenavirus\Codenavirus\obj\Debug\netcoreapp2.1\Codenavirus.AssemblyInfo.cs
+E:\Soft Uni C# Projects\I Prime Holding\Codenavirus\Codenavirus\obj\Debug\netcoreapp2.1\Codenavirus.dll
+E:\Soft Uni C# Projects\I Prime Holding\Codenavirus\Codenavirus\obj\Debug\netcoreapp2.1\Codenavirus.pdb
